@@ -10,6 +10,13 @@
 * note-about-vim / [hvim](https://samwhelp.github.io/note-about-vim/read/project/hvim.html)
 
 
+## Install
+
+| en_us | zh_tw |
+| --- | --- |
+| [Install](https://samwhelp.github.io/tool-hvim-doc/read/en_us/start/install.html) | [安裝](https://samwhelp.github.io/tool-hvim-doc/read/zh_tw/start/install.html) |
+
+
 ## Plugin
 
 | en_us | zh_tw |
