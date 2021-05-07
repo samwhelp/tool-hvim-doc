@@ -35,3 +35,11 @@ grand_parent: zh_tw
 | Key | Map | Description |
 | --- | --- | --- |
 | `<Space>er` | [:Ranger&lt;CR&gt;](https://github.com/francoiscabrol/ranger.vim/blob/master/plugin/ranger.vim#L103) | Open current file by default |
+
+
+## Fzf
+
+| Key | Map | Description |
+| --- | --- | --- |
+| `<Space>ff` | [:Files&lt;CR&gt;](https://github.com/junegunn/fzf.vim#commands) | Files |
+| `<Space>fb` | [:Buffers&lt;CR&gt;](https://github.com/junegunn/fzf.vim#commands) | Open buffers |
