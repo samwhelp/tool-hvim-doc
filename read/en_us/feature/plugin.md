@@ -54,4 +54,4 @@ grand_parent: en_us
 | liuchengxu / [vista.vim](https://github.com/liuchengxu/vista.vim) | |
 | neoclide / [coc.vim](https://github.com/neoclide/coc.nvim) | |
 | honza / [vim-snippets](https://github.com/honza/vim-snippets) | |
-| Ntpeters / [vim-better-whitespace](https://github.com/Ntpeters/vim-better-whitespace) | |
+| ntpeters / [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) | |
